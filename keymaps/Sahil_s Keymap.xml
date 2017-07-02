@@ -1,4 +1,7 @@
 <keymap version="1" name="Sahil's Keymap" parent="Mac OS X 10.5+">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl meta alt c" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt o" />
   </action>
