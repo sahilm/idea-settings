@@ -6,6 +6,7 @@
       <mapping pattern=".osx" type="Bash" />
       <mapping pattern="default-gems" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
+      <mapping pattern="brewfile" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
     </extensionMap>
   </component>
