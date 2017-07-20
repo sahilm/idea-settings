@@ -4,8 +4,9 @@
       <mapping pattern="bootstrap" type="Bash" />
       <mapping pattern=".bash_profile" type="Bash" />
       <mapping pattern=".osx" type="Bash" />
-      <mapping pattern="default-gems" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
+      <mapping pattern="default-gems" type="PLAIN_TEXT" />
+      <mapping pattern=".inputrc" type="PLAIN_TEXT" />
       <mapping pattern="brewfile" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
     </extensionMap>
