@@ -9,6 +9,7 @@
       <mapping pattern=".inputrc" type="PLAIN_TEXT" />
       <mapping pattern="brewfile" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
+      <mapping pattern="Gopkg.lock" type="TOML file" />
     </extensionMap>
   </component>
 </application>
