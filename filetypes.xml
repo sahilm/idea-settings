@@ -7,6 +7,7 @@
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
       <mapping pattern="default-gems" type="PLAIN_TEXT" />
       <mapping pattern=".inputrc" type="PLAIN_TEXT" />
+      <mapping ext="golden" type="PLAIN_TEXT" />
       <mapping pattern="brewfile" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="Gopkg.lock" type="TOML file" />
