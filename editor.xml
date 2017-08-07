@@ -12,6 +12,7 @@
     <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
     <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
   </component>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
   </component>
