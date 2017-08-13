@@ -4,6 +4,7 @@
       <mapping pattern="bootstrap" type="Bash" />
       <mapping pattern=".bash_profile" type="Bash" />
       <mapping pattern=".osx" type="Bash" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="default-gems" type="PLAIN_TEXT" />
