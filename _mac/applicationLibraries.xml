@@ -563,6 +563,19 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-minify-html-3.4.1/fixtures" />
       </SOURCES>
     </library>
+    <library name="middleman-syntax (v3.0.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-syntax-3.0.0/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-syntax-3.0.0/features" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-syntax-3.0.0/fixtures" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-syntax-3.0.0/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-syntax-3.0.0/features" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-syntax-3.0.0/fixtures" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.3, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/minitest-5.10.3/lib" />
@@ -715,6 +728,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/rb-inotify-0.9.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="rouge (v2.1.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/rouge-2.1.1/bin" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/rouge-2.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/rouge-2.1.1/bin" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/rouge-2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.49.1, rbenv: 2.4.1) [gem]">
