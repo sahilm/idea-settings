@@ -470,6 +470,19 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-autoprefixer-2.8.0/fixtures" />
       </SOURCES>
     </library>
+    <library name="middleman-blog (v4.0.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-blog-4.0.2/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-blog-4.0.2/features" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-blog-4.0.2/fixtures" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-blog-4.0.2/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-blog-4.0.2/features" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-blog-4.0.2/fixtures" />
+      </SOURCES>
+    </library>
     <library name="middleman-cli (v4.2.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-cli-4.2.1/bin" />
@@ -526,6 +539,15 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-livereload-3.4.6/lib" />
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-livereload-3.4.6/features" />
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-livereload-3.4.6/fixtures" />
+      </SOURCES>
+    </library>
+    <library name="middleman-meta-tags (v0.3.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-meta-tags-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/middleman-meta-tags-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="middleman-minify-html (v3.4.1, rbenv: 2.4.1) [gem]">
