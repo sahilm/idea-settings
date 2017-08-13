@@ -528,6 +528,15 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/bundler/gems/middleman-imageoptim-a539caef0d2f/gemfiles" />
       </SOURCES>
     </library>
+    <library name="middleman-inliner (v1.0.0@2876e6, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/bundler/gems/middleman-inliner-2876e6cbc782/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/bundler/gems/middleman-inliner-2876e6cbc782/lib" />
+      </SOURCES>
+    </library>
     <library name="middleman-inliner (v1.0.0@92784c, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/bundler/gems/middleman-inliner-92784cf57a03/lib" />
