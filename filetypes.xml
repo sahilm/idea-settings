@@ -7,6 +7,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="default-gems" type="PLAIN_TEXT" />
       <mapping pattern=".inputrc" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
