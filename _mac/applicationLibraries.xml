@@ -66,6 +66,17 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/backports-3.8.0/frozen_old_spec" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.3, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script (v2.4.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/coffee-script-2.4.1/lib" />
