@@ -690,6 +690,19 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/nokogiri-1.8.0/suppressions" />
       </SOURCES>
     </library>
+    <library name="oj (v3.3.5, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/oj-3.3.5/ext" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/oj-3.3.5/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/oj-3.3.5/pages" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/oj-3.3.5/ext" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/oj-3.3.5/lib" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/oj-3.3.5/pages" />
+      </SOURCES>
+    </library>
     <library name="padrino-helpers (v0.13.3.4, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/padrino-helpers-0.13.3.4/lib" />
