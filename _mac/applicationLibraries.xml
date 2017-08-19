@@ -924,6 +924,17 @@
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/sass-3.4.25/vendor" />
       </SOURCES>
     </library>
+    <library name="sassc (v1.11.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/sassc-1.11.4/ext" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/sassc-1.11.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/sassc-1.11.4/ext" />
+        <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/sassc-1.11.4/lib" />
+      </SOURCES>
+    </library>
     <library name="scss (v1.0.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/src/sahilm.com/vendor/bundle/ruby/2.4.0/gems/scss-1.0.2" />
