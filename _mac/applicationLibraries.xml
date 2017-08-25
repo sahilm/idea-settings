@@ -13,17 +13,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
-    <library name="addressable (v2.5.1, rbenv: 2.4.1) [gem]">
+    <library name="addressable (v2.5.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.1/data" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/tasks" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.1/data" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/tasks" />
       </SOURCES>
     </library>
     <library name="ast (v2.3.0, rbenv: 2.4.1) [gem]">
@@ -364,17 +364,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/psych-2.2.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="public_suffix (v2.0.5, rbenv: 2.4.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-2.0.5/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-2.0.5/data" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-2.0.5/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
     <library name="public_suffix (v3.0.0, rbenv: 2.4.1) [gem]">
