@@ -1,0 +1,7 @@
+<templateSet group="Go">
+  <template name="got" value="if got != want {&#10;  t.Errorf(&quot;got: %v, want: %v&quot;, got, want)&#10;}" description="got != want" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
