@@ -4,4 +4,12 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="map" value="map[$KEY_TYPE$]$VALUE_TYPE$" description="Map type" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY_TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE_TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+      <option name="GO_FILE" value="false" />
+    </context>
+  </template>
 </templateSet>
