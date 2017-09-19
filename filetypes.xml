@@ -14,6 +14,7 @@
       <mapping pattern="sub1" type="PLAIN_TEXT" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
       <mapping pattern=".inputrc" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
       <mapping pattern="brewfile" type="Ruby" />
       <mapping pattern="Brewfile" type="Ruby" />
