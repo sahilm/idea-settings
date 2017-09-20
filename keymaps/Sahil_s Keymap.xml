@@ -5,4 +5,10 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta alt o" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
 </keymap>

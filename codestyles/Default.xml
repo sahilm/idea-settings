@@ -1,8 +1,5 @@
 <code_scheme name="Default">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <JSCodeStyleSettings>
-    <option name="INDENT_CHAINED_CALLS" value="false" />
-  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
