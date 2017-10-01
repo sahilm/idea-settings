@@ -3,7 +3,6 @@
     <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -12,7 +11,6 @@
     <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="decapitalize(jsArrayVariable())" defaultValue="&quot;a&quot;" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -21,7 +19,6 @@
     <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="decapitalize(jsArrayVariable())" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -30,7 +27,6 @@
     <variable name="FN" expression="jsMethodName()" defaultValue="&quot;fn&quot;" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="&quot;param&quot;" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -38,21 +34,18 @@
     <variable name="CLASS" expression="" defaultValue="&quot;Class&quot;" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="if" value="if ($COND$) {&#10;    $END$&#10;}" description="If ..." toReformat="false" toShortenFQNames="true">
     <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="ifel" value="if ($COND$) {&#10;    $END$&#10;}&#10;else {&#10;    &#10;}" description="If ... Else ..." toReformat="false" toShortenFQNames="true">
     <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -60,20 +53,17 @@
     <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="scl" value="(function() {&#10;    $SELECTION$&#10;})();" description="Closure" toReformat="true" toShortenFQNames="true">
     <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="cl" value="(function() {&#10;    $END$&#10;})();" description="Closure" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -81,7 +71,6 @@
     <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -89,26 +78,22 @@
     <variable name="FN" expression="jsMethodName()" defaultValue="&quot;fn&quot;" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="&quot;param&quot;" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="t" value="this.$PROP$;&#10;$END$" description="this" toReformat="true" toShortenFQNames="true">
     <variable name="PROP" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="so" value="{ sp$END$ };" description="Declare a literal object" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="o" value="{&#10;    p$END$&#10;};" description="Declare a literal object" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -116,33 +101,28 @@
     <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="us" value="&quot;use strict&quot;;&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
   <template name="clog" value="console.log($END$);" description="console.log" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="it" value="it('should $WHAT$', function(done) {&#10;&#9;$END$&#10;});" description="It should..." toReformat="false" toShortenFQNames="true">
     <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="on" value="on('$EVT$', function(e) {&#10;&#9;$END$;&#10;});" description="On event" toReformat="false" toShortenFQNames="true">
     <variable name="EVT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
@@ -150,14 +130,12 @@
     <variable name="FN" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="&quot;param&quot;" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="desc" value="describe('$WHAT$', function() {&#10;&#9;$END$&#10;});" description="Describe..." toReformat="false" toShortenFQNames="true">
     <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CoffeeScript" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
