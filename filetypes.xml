@@ -4,22 +4,24 @@
       <mapping pattern="bootstrap" type="Bash" />
       <mapping pattern=".bash_profile" type="Bash" />
       <mapping pattern=".osx" type="Bash" />
-      <mapping pattern="default-gems" type="PLAIN_TEXT" />
+      <mapping pattern="bar" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="xyz" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".inputrc" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="abc" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
-      <mapping pattern="sub1" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
+      <mapping pattern="default-gems" type="PLAIN_TEXT" />
+      <mapping pattern="sub1" type="PLAIN_TEXT" />
       <mapping pattern=".hushlogin" type="PLAIN_TEXT" />
+      <mapping pattern="abc" type="PLAIN_TEXT" />
+      <mapping pattern=".inputrc" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
-      <mapping pattern="Gopkg.lock" type="TOML file" />
-      <mapping pattern="Brewfile" type="Ruby" />
       <mapping pattern="brewfile" type="Ruby" />
+      <mapping pattern="Brewfile" type="Ruby" />
+      <mapping pattern="Gopkg.lock" type="TOML file" />
     </extensionMap>
   </component>
 </application>
